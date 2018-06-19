@@ -1223,9 +1223,9 @@ fast-levenshtein@~2.0.4:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
 
-flexslider@~2.6.3:
-  version "2.6.4"
-  resolved "https://registry.yarnpkg.com/flexslider/-/flexslider-2.6.4.tgz#d81fb58b342f9e3e8f497ee8198a35ab8777d9e0"
+flexslider@~2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/flexslider/-/flexslider-2.7.1.tgz#6752b0b31c90cde9207ee6406aea70ad299c3ac3"
   dependencies:
     jquery ">=1.11.3"
 
